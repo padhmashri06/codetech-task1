@@ -26,5 +26,15 @@ EJS: Templating engine that dynamically renders the list of projects. It allows 
 
 CSS: Basic styling to make the portfolio visually appealing, including styling for project list items, header, navigation, and footer.
 
+
+
+
 Conclusion:
 This project serves as a basic portfolio website that combines both frontend and backend technologies. It provides a good starting point for anyone looking to build a more advanced personal website with dynamic content management. By using Node.js and Express, you create a powerful backend while keeping the front-end code clean with HTML, CSS, and EJS. With further enhancements, this can evolve into a fully-featured portfolio system.
+
+
+
+
+![Screenshot (55)](https://github.com/user-attachments/assets/df8cef55-0b87-4ed4-87bd-4212588ad6fb)
+
+
