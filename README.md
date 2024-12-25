@@ -22,7 +22,8 @@ Data Storage: Project data (title, description, and link) is stored temporarily 
 
 2. Frontend (HTML + CSS + EJS)
 HTML: Structure of the page, including sections like "About Me", "Projects", and the "Add New Project" form.
-EJS: Templating engine that dynamically renders the list of projects. It allows the backend data (e.g., project titles and descriptions) to be injected directly into the HTML.
+EJS: Templating engine that dynamically renders the list of projects. It allows the backend data (e.g., project titles and descriptions)
+
 CSS: Basic styling to make the portfolio visually appealing, including styling for project list items, header, navigation, and footer.
 
 Conclusion:
